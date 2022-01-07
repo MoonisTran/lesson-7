@@ -17,4 +17,4 @@ console.log("Chuyển sang độ C là:", (doF - 32 ) / 1.8, "độ C" );
 
 //KM SANG M
 let km =prompt ("Nhập quãng đường km:")
-console.log("Quãng đường theo đơn vị m:", km*1000);
+console.log("Quãng đường theo đơn vị m:", km*1000, "m");
